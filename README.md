@@ -1,25 +1,33 @@
 # Emotion Analysis with Transformer
 
-🚀 Implementation of a multi-head attention Transformer-based model for emotion analysis using the IMDb dataset.
+🚀 A simple implementation of a multi-head attention Transformer-based model for emotion analysis using the IMDb dataset.
 
-## 📝 Description
-This project demonstrates how to build a Transformer-based emotion analysis model. The implementation includes:
-- Multi-head Attention (MHA) module
-- Layer normalization, dropout, and residual connections
-- A custom TextClassifier with positional encoding
-- Training and evaluation on the IMDb dataset
+## 📂 File Overview
+- **Notebook**: Emotion_Analysis_with_Transformer.ipynb
+- **Repository**: Emotion-Analysis-Transformer
 
-## 📁 Project Structure
-- **`Emotion_Analysis_with_Transformer.ipynb`**: Contains the full implementation, including data loading, model architecture, training, and evaluation.
-
-## 🛠️ Requirements
-To run this project, make sure to install the following dependencies:
+## 🔧 Requirements
 - Python 3.7+
 - PyTorch
 - Transformers
 - Datasets
 - NumPy
 
-Install the required libraries using pip:
+Install the requirements:
 ```bash
 pip install torch transformers datasets numpy
+```
+## 🚀 Quick Start
+1. Clone the repository:
+   git clone https://github.com/your-username/Emotion-Analysis-Transformer.git
+2. Open the Jupyter Notebook:
+   jupyter notebook Emotion_Analysis_with_Transformer.ipynb
+
+## 📝 Description
+This project uses a Transformer-based architecture with Multi-head Attention, layer normalization, dropout, and residual connections to classify emotions from IMDb reviews.
+
+## 📊 Dataset
+The IMDb dataset is loaded using the Hugging Face datasets library.
+
+## 👤 Author
+Gyuhwan Choi (https://github.com/your-username)
