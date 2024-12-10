@@ -30,4 +30,4 @@ This project uses a Transformer-based architecture with Multi-head Attention, la
 The IMDb dataset is loaded using the Hugging Face datasets library.
 
 ## 👤 Author
-Gyuhwan Choi (https://github.com/your-username)
+Gyuhwan Choi (https://github.com/Choi0619)
