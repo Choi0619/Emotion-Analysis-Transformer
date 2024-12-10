@@ -19,7 +19,7 @@ pip install torch transformers datasets numpy
 ```
 ## 🚀 Quick Start
 1. Clone the repository:
-   git clone https://github.com/your-username/Emotion-Analysis-Transformer.git
+   git clone https://github.com/Choi0619/Emotion-Analysis-Transformer.git
 2. Open the Jupyter Notebook:
    jupyter notebook Emotion_Analysis_with_Transformer.ipynb
 
